@@ -1,0 +1,1 @@
+print ("Hello world") #bem mais facil que no c++
